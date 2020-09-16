@@ -9,6 +9,15 @@ public class Carros {
     private boolean freio_de_mao_puxado;
     private boolean chave_virada;
     
+    //criando o método construtor alt+insert
+
+    public Carros() {
+    }
+    
+    
+    
+    
+    
     //criar os métodos de acesso alt+insert
 
     public String getMarca() {

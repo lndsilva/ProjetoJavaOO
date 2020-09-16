@@ -9,6 +9,12 @@ public class Pessoa {
     private String telefone;
     private int idade;
     private char sexo;
+    
+    //criando o método construtor alt+insert
+
+    public Pessoa() {
+    }
+    
 
     //criar os getters e setters - alt+insert
     //pegar as informações da variável - ler

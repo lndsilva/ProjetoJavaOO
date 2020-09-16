@@ -6,6 +6,12 @@ public class Contas {
     private double saldo;
     private String dataAbertura;
     private boolean status;
+    
+    //criando o método construtor alt+insert
+
+    public Contas() {
+    }
+    
 
     //criar os métodos de acesso com alt+insert
     public int getNumero() {
